@@ -1,0 +1,2 @@
+﻿alert_type,source_ip,username,event_count,severity,reason
+Repeated Failed Login Attempts,192.0.2.20,,5,Medium,5 failed logins within 5 minutes
